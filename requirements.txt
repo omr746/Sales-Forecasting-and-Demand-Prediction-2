@@ -1,4 +1,3 @@
-os
 fastapi
 uvicorn[standard]
 pandas
@@ -7,4 +6,8 @@ matplotlib
 xgboost
 scikit-learn
 python-multipart
+pyngrok
 joblib
+streamlit
+requests
+Pillow
